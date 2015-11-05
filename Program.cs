@@ -8,5 +8,10 @@ namespace ConVerTest
 		{
 			Console.WriteLine ("Hello World!");
 		}
+
+		public string Name ()
+		{
+			return "Shruti";
+		}
 	}
 }
